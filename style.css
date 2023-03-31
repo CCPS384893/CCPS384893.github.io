@@ -3,10 +3,10 @@ color: black;
   font-size: 16px;
 }
 ul {
-
+list-style: square;
 }
 ol {
-
+list-style: square;
 }
 h1 {
 color: lavender;
