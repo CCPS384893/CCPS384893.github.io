@@ -4,14 +4,14 @@ color: black;
 }
 ul {
 list-style: square;
-  
+  font-weight: bold;
 }
 ol {
 list-style: square;
-  
+ font-weight: bold; 
 }
 h1 {
-color: lavender;
+color: purple;
   font-style: italic;
 }
 header {
